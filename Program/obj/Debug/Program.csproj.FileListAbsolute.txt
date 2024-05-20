@@ -1,0 +1,7 @@
+D:\Computer Science\SAIT\Courses\S2\Object-Oriented Programming 2(CPRG-211-D)\C#\Lab 0 Basics of C#\Program\bin\Debug\Program.exe.config
+D:\Computer Science\SAIT\Courses\S2\Object-Oriented Programming 2(CPRG-211-D)\C#\Lab 0 Basics of C#\Program\bin\Debug\Program.exe
+D:\Computer Science\SAIT\Courses\S2\Object-Oriented Programming 2(CPRG-211-D)\C#\Lab 0 Basics of C#\Program\bin\Debug\Program.pdb
+D:\Computer Science\SAIT\Courses\S2\Object-Oriented Programming 2(CPRG-211-D)\C#\Lab 0 Basics of C#\Program\obj\Debug\Program.csproj.AssemblyReference.cache
+D:\Computer Science\SAIT\Courses\S2\Object-Oriented Programming 2(CPRG-211-D)\C#\Lab 0 Basics of C#\Program\obj\Debug\Program.csproj.CoreCompileInputs.cache
+D:\Computer Science\SAIT\Courses\S2\Object-Oriented Programming 2(CPRG-211-D)\C#\Lab 0 Basics of C#\Program\obj\Debug\Program.exe
+D:\Computer Science\SAIT\Courses\S2\Object-Oriented Programming 2(CPRG-211-D)\C#\Lab 0 Basics of C#\Program\obj\Debug\Program.pdb
